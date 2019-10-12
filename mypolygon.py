@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+#-*- coding: utf-8 -*-
 """
 Created on Fri Aug  9 17:19:22 2019
 
@@ -12,4 +12,6 @@ for i in range(4):
     bob.lt(90)
 turtle.mainloop()
 
+for n in range (1,10,2):
+    print(n)
 

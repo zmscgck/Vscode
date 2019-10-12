@@ -10,3 +10,5 @@ a=2
 b=3
 c=a*b
 print(c)
+print('Hello world')
+2**3
