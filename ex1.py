@@ -12,3 +12,4 @@ c=a*b
 print(c)
 print('Hello world')
 2**3
+print(3**3)
