@@ -4,9 +4,6 @@ Set up in Desktop
 or 
 HTTPS |  https://github.com/zmscgck/Vscode.git
 SSH 
-fatal: remote origin already exists.
-
-git remote rm origin
 
 Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore. 
 …or create a new repository on the command line
